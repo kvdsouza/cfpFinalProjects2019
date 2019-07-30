@@ -1,4 +1,4 @@
-# Code for Palestine Final Projects Y3 Group A 2019
+# Code for Palestine Final Projects Y3 2019
 
 ![alt text](/imagesGithub/fullGroupProfessional.png)
 
