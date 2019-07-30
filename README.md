@@ -40,5 +40,9 @@ Wajhni is an application that aims to make studying for the tawjihi more accessi
 [**Link to Repository**](https://github.com/MisterMassad/Wajhni)
 
 ## Overall Remarks
+![alt text](/imagesGithub/y2.png)
+
 I had a wonderful time teaching these amazing students. Special thanks to the PalTel Group for sponsoring this opportunity, Code.X for coordinating and organizing this, the staff for making the process so seamless in the West Bank, and my fellow Stanford coinstructors (special shoutout to Sydney Hutton and Cooper Raterink: my two partners in CS), who all worked so hard to make this whole experience magical for the students. Please feel free to add any other material or information to these groups, or add your own too!
+![Thank you PalTel](/imagesGithub/kyleAndPalTel.png)
+
 
