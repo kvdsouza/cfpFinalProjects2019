@@ -8,6 +8,7 @@ Over the past month, I served as a CS Instructor at the *Code for Palestine Prog
 Here is some information on each application from Y3.
 
 ## DocTech
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 **Team Members**
 Ahmad Dumaidi, Fouad Turjman, Mayar Shanan, Saja Abuodeh
 
