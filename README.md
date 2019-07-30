@@ -14,8 +14,7 @@ Ahmad Dumaidi, Fouad Turjman, Mayar Shanan, Saja Abuodeh
 **Description of Application**
 DocTech's goal is to provide software that helps organize patients' medical information. The application is aimed at doctor's and hospitals.
 
-**Link to Repository**
-(https://github.com/ah3311and55/doctech)
+[**Link to Repository**](https://github.com/ah3311and55/doctech)
 
 ## Luchi
 **Team Members**
@@ -24,7 +23,7 @@ Ahmad Drawsheh, Ghada Issa, Kareem Awwad, Majd Barghouti, Rashiqa Ramahi
 **Description of Application**
 
 
-**Link to Repository**
+[**Link to Repository**]
 (https://github.com/majdbar321/luchi-app-2019)
 
 ## Wahjni
@@ -33,5 +32,5 @@ Ahmad Durra, Michel, Subhi Awwad, Tahseen Aliahmad (with help from Y2 student Am
 
 **Description of Application**
 
-**Link to Repository**
+[**Link to Repository**]
 (https://github.com/MisterMassad/Wajhni)
