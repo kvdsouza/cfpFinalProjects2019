@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Code for Palestine Final Projects 2019
 
-You can use the [editor on GitHub](https://github.com/kvdsouza/cfpFinalProjects2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Over the past month, I served as a CS Instructor at the *Code for Palestine Program*, teaching a series of wonderful students React Native and helping them build app prototypes. The *Code for Palestine* program is a three year program: I taught a Y2 group and a Y3 group as well. This ReadMe.md is a work in progress, but includes my students' Y3 group projects, and potentially the Y2 groups as well. I hope to publish this as a full website in the future. Without further ado, here are the three groups from the Y3 class I taught. These prototypes were amazing, with the apps focusing on:
+1. An application to connect patient data to doctors in Palestine
+2. An application to provide opportunities for youth in Palestine through connecting activities and organizations with young adults
+3. An education tech application designed to improve access and results on the Tawjihi exams.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is some information on each application.
 
-### Markdown
+## DocTech
+**Team Members**
+Ahmad Dumaidi, Fouad Turjman, Mayar Shanan, Saja Abuodeh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Description of Application**
 
-```markdown
-Syntax highlighted code block
+**Link to Repository**
 
-# Header 1
-## Header 2
-### Header 3
+## Luchi
+**Team Members**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Description of Application**
 
-**Bold** and _Italic_ and `Code` text
+**Link to Repository**
 
-[Link](url) and ![Image](src)
-```
+## Wahjni
+**Team Members**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**Description of Application**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvdsouza/cfpFinalProjects2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Link to Repository**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
