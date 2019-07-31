@@ -2,7 +2,7 @@
 
 ![alt text](/imagesGithub/fullGroupProfessional.png)
 
-Over the past month, I served as a CS Instructor at the *Code for Palestine Program*, teaching a series of wonderful students React Native and helping them build app prototypes. The program is a three years long: I taught a Y2 group and a Y3 group as well. This ReadMe.md is a work in progress, but includes my students' Y3 group projects, and potentially the Y2 groups as well. I hope to publish this as a full website in the future. Without further ado, here are the three groups from the Y3 class I taught. These prototypes were amazing, with the apps focusing on:
+Over the past month, I served as a CS Instructor at the *Code for Palestine Program*, teaching a series of wonderful students React Native and helping them build app prototypes. The program is three years long: I taught a Y2 group and a Y3 group as well. This ReadMe.md is a work in progress, but includes my students' Y3 group projects, and potentially the Y2 groups as well. I hope to publish this as a full website in the future. Without further ado, here are the three groups from the Y3 class I taught. These prototypes were amazing, with the apps focusing on:
 1. An application to connect patient data to doctors in Palestine
 2. An application to provide opportunities for youth in Palestine through connecting activities and organizations with young adults
 3. An education tech application designed to improve access and results on the Tawjihi exams.
