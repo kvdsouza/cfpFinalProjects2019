@@ -1,6 +1,6 @@
 # Code for Palestine Final Projects Y3 2019
+![Thank you PalTel](/imagesGithub/kyleAndPalTel.png)
 
-![alt text](/imagesGithub/fullGroupProfessional.png)
 
 Over the past month, I served as a CS Instructor at the *Code for Palestine Program*, teaching a series of wonderful students React Native and helping them build app prototypes. The program is three years long: I taught a Y2 group and a Y3 group as well. This ReadMe.md is a work in progress, but includes my students' Y3 group projects, and potentially the Y2 groups as well. I hope to publish this as a full website in the future. Without further ado, here are the three groups from the Y3 class I taught. These prototypes were amazing, with the apps focusing on:
 1. An application to connect patient data to doctors in Palestine
@@ -43,6 +43,7 @@ Wajhni is an application that aims to make studying for the tawjihi more accessi
 ![alt text](/imagesGithub/y2.png)
 
 I had a wonderful time teaching these amazing students. Special thanks to the PalTel Group for sponsoring this opportunity, Code.X for coordinating and organizing this, the staff for making the process so seamless in the West Bank, and my fellow Stanford coinstructors (special shoutout to Sydney Hutton and Cooper Raterink: my two partners in CS), who all worked so hard to make this whole experience magical for the students. Please feel free to add any other material or information to these groups, or add your own too!
-![Thank you PalTel](/imagesGithub/kyleAndPalTel.png)
+
+![alt text](/imagesGithub/fullGroupProfessional.png)
 
 
